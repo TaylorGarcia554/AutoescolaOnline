@@ -1,6 +1,6 @@
 # Atualização do App AutoescolaOnline
 
-![Logo do Projeto](./images/playstore (1).png)
+![Logo do Projeto](./images/playstore(1).png)
 
 Um aplicativo que foi criado em 2020 e nao recebeu nenhuma atualizacao após isso pela empresa Legtransito LTDA. Refêrencia nacional com relação a Trânsito e ajudando uma imensa comunidade a conseguir se Aprovado na Prova Teórica do Detran.
 
