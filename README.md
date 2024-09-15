@@ -1,12 +1,13 @@
-# Atualização do App AutoescolaOnline
+# ![Logo do Projeto](./images/playstore(1).png) Atualização do App AutoescolaOnline
 
-![Logo do Projeto](./images/playstore(1).png)
 
 Um aplicativo que foi criado em 2020 e nao recebeu nenhuma atualizacao após isso pela empresa Legtransito LTDA. Refêrencia nacional com relação a Trânsito e ajudando uma imensa comunidade a conseguir se Aprovado na Prova Teórica do Detran.
 
 O Aplicativo tem o objetivo de ajudar a comunidade a Decorar as placas de Trânsito e liberar alguns simulados para o cliente testar o seu conhecimento. Essa são as suas principais funcionalidades e sua finalidade, contando também com uma API que retornar os videos do Youtube no canal para o aplicativo sendo possivel assistir os mesmo no aplicativo, sem a necessidade de ir até o app do Youtube, e também tem o blog de notícias. 
 
-# Atualizações que Foram Necessárias
+![Splash Screen](./images/SplashScreen.png) ![Home Screen](./images/Home%20Screen.png)
+
+## Atualizações que Foram Necessárias
 
 Ao pegar o aplicativo com a liguagem Flutter que foi desenvolvida, foi necessário de 3 a 4 dias para a leitura completa da aplicação e entender como que funcionava a parte de dentro nos códigos. Após isso, fiz uma pesquisa para saber o que havia atualizado na linguagem Dart e Flutter para que pudesse estar primeiramente atualizado com a linguagem usada, e percebi que a principal era a mudança para o Null Safety do dart, que consiste que todas as variaveis e funcoes que retornem nulo seja declarada como Nula ou Não Nula. 
 
@@ -16,16 +17,28 @@ O segundo era que a parte do Blog de noticias, estava dando erro pois a requisi�
 
 Esses era os principais erros que constavam no app para a funcionalidade nele. Após isso fizemos algumas modificações.. sendo elas 
 
-# 1  Mudança no Visual
+##  Mudança no Visual
 
 Começamos fazendo um pequeno protótipo do que seria feito nessa atualização visual. Com a ajuda de um designer fizemos esse protótipo:
 
-#imagem
+#### Protótipo:
+
+[![Prototipo Figma](./images/Projeto%20Figma.png)](https://www.figma.com/design/QJ6dlranex7TFLTwzGLZx9/APP-Autoescola-Online?node-id=0-1&node-type=canvas&t=355aqCp6EGKLylxf-0)
 
 A mudança em como as questoes dos simulados apareciam para o usúario é a principal mudança, onde antigamente, as questões eram todas visualizadas de uma unica vez, sendo não tendo um total feedback se a questão foi ou não selecionada ( Por conta do Radio ). Mudei para colocar uma por vez, e o modo de seleção foi em todo o Container usando um GestureDetector para mudar de cor também quando clicado, selecionamos o amarelo, de acordo com o protótipo, e para questoes certas o verde, erradas o vermelho. As demais foram em como aparece quando o usúario não adiquiriu a versão Plus do app, e após ele adiquirir. 
 
+#### Antes:
 
-# Ponto de Apredizagem
+![Antes da Atualização](./images/antes.png)
+
+
+#### Depois:
+
+![Depois da Atualização](./images/prototipo%20no%20app.png)
+
+
+
+## Ponto de Apredizagem
 
 Nesta jornada de aprendizagem atualizando um aplicativo, eu pude entender como trabalhar em um projeto onde não é meu, a me encaixar um pouco na lógica de outro programador, tendo em vista também a complexidade de uma linguagem e a construção para os dispositivos mobile. Aprendi as configurações do Gradlew, as dependências e atualizações de versão para a possibilidade de atualização e aceitação de acordo com as Políticas da Google Play. Construção de Widgets na linguagem Flutter responsivo, e o melhor de tudo que não posso esquecer. 
 
@@ -36,6 +49,20 @@ A comunicação entre do programador e o cliente precisa ser mais clara possivel
 # Conclusão
 
 Foi bastante emocionante e de grande aprendizagem a trajetória trabalhando neste aplicativo, sendo meu primeiro aplicativo postado na Play Store, entendendo das Políticas do mesmo. Sendo uma oportunidade imensa de conseguir finalizar o projeto em uma linguagem um pouco desconhecida da minha parte, consegui aprimorar minhas habilidades na linguagem Dart e na construção em Flutter. Apesar de imensas dificuldades desde instalar o pacote Flutter na minha máquina, até aprender com todas as rejeições da Google Play, eu consegui finalizar e já está em funcionamento na Play Store. Vou deixar o link abaixo caso queira baixar, e vou deixar um video do aplicativo que não foi usado (devida a falta de conversas) para a avaliação também ( eu particulamente gostei mais da 'Nova versão'). Obrigado pela leitura e seguimos aprendendo.. 
+
+## Link para Baixar
+
+Se você deseja testar o aplicativo na Play Store, clique no botão abaixo ⬇️
+
+![Baixe o Aplicativo na Play Store](./images/google-play-selo.png)
+
+
+#### Vídeo do Aplicativo Fucionando 
+
+Vou deixar o video do Aplicativo funcionando antes de ter a conversa que não queria mais o App com a versão Plus.
+
+[Assista ao Vídeo do aplicativo com a Atualização do Design](https://drive.google.com/drive/folders/1WTDz-GzLaU5fsoWreWAGu4oh8ZCofXl9?usp=sharing)
+
 
 
 
