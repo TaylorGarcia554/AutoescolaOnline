@@ -20,5 +20,21 @@ Começamos fazendo um pequeno protótipo do que seria feito nessa atualização 
 
 #imagem
 
-A mudança em como as questoes dos simulados apareciam para o usúario é a principal mudança, onde antigamente, as questões eram todas visualizadas de uma unica vez, sendo não tendo um total feedback se a questão foi ou não selecionada ( Por conta do Radio ). Mudei para colocar uma por vez, e o modo de seleção foi em todo o Container usando um GestureDetector para mudar de cor também quando clicado, selecionamos o amarelo, de acordo com o protótipo, e para questoes certas o verde, erradas o veremlho.. 
+A mudança em como as questoes dos simulados apareciam para o usúario é a principal mudança, onde antigamente, as questões eram todas visualizadas de uma unica vez, sendo não tendo um total feedback se a questão foi ou não selecionada ( Por conta do Radio ). Mudei para colocar uma por vez, e o modo de seleção foi em todo o Container usando um GestureDetector para mudar de cor também quando clicado, selecionamos o amarelo, de acordo com o protótipo, e para questoes certas o verde, erradas o vermelho. As demais foram em como aparece quando o usúario não adiquiriu a versão Plus do app, e após ele adiquirir. 
+
+
+# Ponto de Apredizagem
+
+Nesta jornada de aprendizagem atualizando um aplicativo, eu pude entender como trabalhar em um projeto onde não é meu, a me encaixar um pouco na lógica de outro programador, tendo em vista também a complexidade de uma linguagem e a construção para os dispositivos mobile. Aprendi as configurações do Gradlew, as dependências e atualizações de versão para a possibilidade de atualização e aceitação de acordo com as Políticas da Google Play. Construção de Widgets na linguagem Flutter responsivo, e o melhor de tudo que não posso esquecer. 
+
+O entusiasmo ao projeto estava tão grande, que dentre as conversas para a finalidade do aplicativo estar de agrado ao cliente, não foram deixadas claras em como seria realmente após ele estar atualizado, e então em uma conversa para terminar, faltando apenas implementar uma nova forma de cobrança(antes era de um produto CONSUMIVEL, e depois iria passar para um NÃO CONSUMIVEL ) foi informado que não usaria mais a versão do aplicativo da forma Plus, e que não queria que mudasse no visual, poderia deixar da forma antiga. A primeiro momento eu fiquei um pouco decepcionado, pois ja poderia entregar o aplicativo a 2 semanas atras se ja tivesse me falado nas primeiras reuniões. E Então, venho falar de mais uma habilidade que eu aprendi durante o aplicativo. 
+
+A comunicação entre do programador e o cliente precisa ser mais clara possivel, tendo sempre que dar o feedback do que está fazendo e de como ele quer continuar, evitando a perda de tempo construindo algo que não tem necessidade ou que não estará de acordo com o cliente. Mas venho expor também a facilidade de conseguir após o cliente me falar algo que de fato era mais fácil e rápido de fazer, graças ao aprendizado do uso do GitHub, e ter todas as versões atualizadas que estavam funcionando, com todos os códigos já prontos para simplesmente aplicar do jeito que o cliente desejava, foi BASTANTE eficaz para ao chegar em casa, finalizar a aplicação no mesmo dia, e assim, enviar a versão atualizada para o Google Play. 
+
+# Conclusão
+
+Foi bastante emocionante e de grande aprendizagem a trajetória trabalhando neste aplicativo, sendo meu primeiro aplicativo postado na Play Store, entendendo das Políticas do mesmo. Sendo uma oportunidade imensa de conseguir finalizar o projeto em uma linguagem um pouco desconhecida da minha parte, consegui aprimorar minhas habilidades na linguagem Dart e na construção em Flutter. Apesar de imensas dificuldades desde instalar o pacote Flutter na minha máquina, até aprender com todas as rejeições da Google Play, eu consegui finalizar e já está em funcionamento na Play Store. Vou deixar o link abaixo caso queira baixar, e vou deixar um video do aplicativo que não foi usado (devida a falta de conversas) para a avaliação também ( eu particulamente gostei mais da 'Nova versão'). Obrigado pela leitura e seguimos aprendendo.. 
+
+
+
 
