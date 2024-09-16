@@ -54,7 +54,7 @@ Foi bastante emocionante e de grande aprendizagem a trajetória trabalhando nest
 
 Se você deseja testar o aplicativo na Play Store, clique no botão abaixo ⬇️
 
-![Baixe o Aplicativo na Play Store](./images/google-play-selo.png)
+[![Baixe o Aplicativo na Play Store](./images/google-play-selo.png)](https://play.google.com/store/apps/details?id=jocampos.com.br.auto_escola_online&hl=pt_BR)
 
 
 #### Vídeo do Aplicativo Fucionando 
